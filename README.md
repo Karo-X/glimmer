@@ -15,7 +15,7 @@ Apple-Entwicklerkonto und ohne Zertifikat.
 Voraussetzungen: macOS 14 oder neuer, Xcode oder die Command Line Tools
 (`xcode-select --install`).
 
-    git clone <adresse dieses projekts>
+    git clone https://github.com/Karo-X/glimmer.git
     cd glimmer
     ./scripts/build.sh
     open build/Glimmer.app
