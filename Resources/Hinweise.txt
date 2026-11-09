@@ -1,0 +1,16 @@
+Glimmer: Hinweise
+
+Glimmer ist ein inoffizielles, kostenloses Hobbyprojekt. Es steht in keiner Verbindung zu
+Apple Inc. und wird von Apple weder unterstützt noch geprüft. Apple und MacBook sind Marken
+von Apple Inc.
+
+Die App nutzt undokumentierte Schnittstellen. Die Steuerung des echten Logos wurde noch auf
+keinem Gerät getestet. macOS-Updates können Funktionen jederzeit abschalten.
+
+Der Alarm ändert Energieeinstellungen, verbraucht Akku und spielt eine laute Sirene ab.
+Er schützt nicht zuverlässig vor Diebstahl.
+
+"Rechte einrichten" erlaubt dem aktuellen Benutzer einige Befehle ohne Passwort, zum Beispiel
+das Abschalten des Ruhezustands. "Rechte entfernen" nimmt das zurück.
+
+Die Nutzung erfolgt auf eigene Gefahr und ohne Support, soweit gesetzlich zulässig.
