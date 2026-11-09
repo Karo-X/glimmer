@@ -49,3 +49,8 @@ den anderen Befehlen nur an, was passieren würde.
 
 Sensoren (`accel`, `las`) sind undokumentierte Schnittstellen. Stufenloses Dimmen ist noch
 nicht gefunden. Anrufe werden noch nicht erkannt.
+
+## Lizenz
+
+GPL-3.0, siehe [LICENSE](LICENSE). Wer eine veränderte Version weitergibt, muss deren
+Quellcode unter derselben Lizenz offenlegen.
